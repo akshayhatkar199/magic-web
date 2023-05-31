@@ -1,0 +1,9 @@
+.card-img{
+    height: 300px;
+    width: 100%;
+}
+
+.packages-main-card{
+    border-radius: 9px;
+    margin: 10px;
+}

@@ -1,0 +1,87 @@
+.carausal-dev {
+    margin: 0 ;
+    /* height: 160px ; */
+    width: 100% ;
+    color: #fff ;
+    line-height: 160px ;
+    text-align: center ;
+    background: #364d79 ;
+  }
+  .slider-IMG{
+   height: 100% ;
+   width: 100% ;
+   
+  }
+.carausal-text-div{
+  position: relative; 
+  text-align: center;
+  color: white;
+}
+.text-carausal{
+  position: absolute;
+    top: 41%;
+    left: 50%;
+    font-size: 20px;
+    line-height: 21px;
+    transform: translate(-50%, -50%);
+
+}
+.div-main-carasal{
+  /*margin-top: 76px;*/
+  position: relative;
+}
+
+.carausal-arrow-back{
+  position: absolute;
+    top: 45%;
+    left:5px
+}
+
+.carausal-arrow-next{
+  position: absolute;
+    right: 5px;
+    top: 45%;
+}
+
+
+
+  /* < 576 px */
+  @media only screen and (max-width: 576px) {
+    .carausal-dev {
+      height: 280px 
+    }
+  }
+  
+  /* > 576 px */
+  @media only screen and (min-width: 576px) {
+    .carausal-dev {
+    height: 380px 
+    }
+  }
+  /* > 768 px */
+  @media only screen and (min-width: 768px) {
+    .carausal-dev {
+      height: 345px 
+    }
+  }
+  /* > 992 px */
+  @media only screen and (min-width: 992px) {
+    .carausal-dev {
+      height: 370px ;
+    }
+  }
+  /* > 1200 px */
+  @media only screen and (min-width: 1200px) {
+    .carausal-dev {
+      /* height: 465px ; */
+      height: 700px ; 
+    }
+  }
+  /* > 1400 px */
+  @media only screen and (min-width: 1400px) {
+    .carausal-dev {
+      /* height: 500px ; */
+      height: 675px !important; 
+    }
+  }
+  

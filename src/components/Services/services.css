@@ -1,0 +1,118 @@
+.service-title {
+  text-align: center;
+  font-size: xx-large;
+  /* color: rgb(105, 97, 97); */
+  color: rgb(59 62 150);
+  /* padding-top: 23px; */
+  margin-top: 13px;
+  font-family: Roboto, sans-serif;
+  font-size: 45px;
+}
+.title-service{
+  /* color: #cb8d1d; */
+  color: #8bbd04;
+  
+}
+.Services-hr{
+  position: relative;
+  top: -32px;
+  border: none;
+  width: 95px;
+  left: 0%;
+  /* margin-left: 11%; */
+  height: 5px;
+  background: #98dd36;
+  margin-bottom: 8px
+}
+
+.p-tag-service{
+    font-size: 19px;
+}
+.title{
+  text-align: center;
+  font-size: xx-large;
+  /* color: #453b3b,; */
+  padding-top:10px;
+  margin-top: 0px;
+  /* color: rgb(105, 97, 97); */
+  color: rgb(59 62 150);
+}
+.service-bg{
+  /* background-color: lightblue; */
+    margin-top: -30px;
+    padding-top: 16px;
+     /* background: linear-gradient(323deg, #ffffff,#f1f1f1, #e1d9d900); */
+     /* background-color: #f9f9f9; */
+     /* background-color: #e7f4f4; */
+    
+    }
+
+.service-Div{
+    position:relative;
+    margin: 21px;
+    margin-bottom: 0px;
+    text-transform: capitalize;
+    font-family: 'Roboto', sans-serif;
+    font-size: 21px !important;
+    text-align: justify;
+    /* margin-left:auto;
+    margin-right:auto; */
+    /* padding-right:15px;
+    padding-left:15px */
+   
+  }
+  @media (min-width: 476px){
+    .service-Div{
+      /* padding-right:10px;
+      padding-left:10px */
+    }
+  }
+   /* @media (min-width: 768px){
+    .service-Div{
+      padding-right:15px;
+      padding-left:15px
+    }
+  }
+  @media (min-width: 992px){
+    .service-Div{
+      padding-right:15px;
+      padding-left:15px
+    }
+  }
+  @media (min-width: 1200px){
+    .service-Div{
+      padding-right:15px;
+      padding-left:15px
+    }
+  }
+  @media (min-width: 476px){
+    .service-Div{
+      width:100%
+    }
+  }
+  @media (min-width: 768px){
+    .service-Div{
+      width:720px;
+      max-width:100%
+    }
+  }
+  @media (min-width: 992px){
+    .service-Div{
+      width:960px;
+      max-width:100%
+    }
+  } */
+  @media (min-width: 1200px){
+    /* .service-Div{
+      padding-left: 122px !important;
+    padding-right: 149px  !important;
+    } */
+  }
+  @media (min-width: 1400px){
+    /* .service-Div{
+      padding-left: 122px !important;
+    padding-right: 149px  !important;
+    } */
+  } 
+
+  

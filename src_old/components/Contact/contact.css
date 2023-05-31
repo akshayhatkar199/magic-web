@@ -1,0 +1,133 @@
+.ant-form-item-required{
+    color: white !important;
+}
+
+.inputname{
+    margin-left: 25px;
+    color: white;
+}
+
+.input-box{
+    width: 95%;
+    margin-left: -19px;
+    height: 43px;
+}
+.img-bg{
+    /* width: 100%;
+    height: auto; */
+    /* background-blend-mode: screen; */
+    /* background-color: #100e0e;
+    background-image: url(../../Image/Image-student-5.jpg);
+    background-blend-mode: soft-light;
+    background-repeat: no-repeat; */
+}
+
+.contact-div{
+    
+    /* ../../Image/input-bg.png */
+    background-color: #3f3f65;
+    margin-top: -28px;
+    opacity: 0.8;
+    text-align: center;
+}
+.title-contact{
+    text-align: center;
+    font-size: xx-large;
+    color: white;
+    padding-top: 23px;
+}
+.contact-hr{
+    position: relative;
+    top: -32px;
+    border: none;
+    width: 95px;
+    left: 13px;
+    margin-left: 11%;
+    height: 5px;
+    background: #98dd36;
+    margin-bottom: 8px;
+}
+.contact-Address{
+font-size: 27px !important;
+margin-right: 119px;
+/* color: #ffa90b; */
+color: #f88a43;
+}
+
+.contactus-style{
+font-size: 35px;
+margin-top: 0px;
+color: white;
+}
+.address-text{
+    color: white;
+    margin-top: -43px;
+    line-height: 1px;
+    /* text-align: initial;
+    margin-left: 83px; */
+}
+
+.contact-address-main{
+    line-height: 23px;
+}
+
+
+/* .contact-phone{
+    margin-top: -12px;
+    margin-left: -107px
+} */
+
+.contact-pin{
+    line-height: 1px;
+}
+
+ .contact-text-email{
+    /* margin-top: -12px;
+    margin-left: -91px; */
+    margin-left: -5px;
+} 
+
+.input-text-area{
+    width: 95% ;
+    margin-left: -19px;
+    height: 100px !important;
+}
+.icon-contact{
+    font-size: 21px;
+    margin-right: 6px
+}
+.address-contact-div{
+    text-align: left;
+    margin: 17%;
+    margin-top: 28px;
+    font-family: 'Roboto', sans-serif;
+}
+/* margin-right: 170px;
+    margin-left: 120px; */
+
+    /* < 576 px */
+  @media only screen and (max-width: 576px) {
+   
+  }
+  
+  /* > 576 px */
+  @media only screen and (min-width: 576px) {
+   
+  }
+  /* > 768 px */
+  @media only screen and (min-width: 768px) {
+    
+  }
+  /* > 992 px */
+  @media only screen and (min-width: 992px) {
+    
+  }
+  /* > 1200 px */
+  @media only screen and (min-width: 1200px) {
+   
+}
+  /* > 1400 px */
+  @media only screen and (min-width: 1400px) {
+   
+    }
+  
